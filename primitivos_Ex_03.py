@@ -6,7 +6,7 @@ a = input('Digite algo: ')
       f'É alfanumérico? {a.isalnum()} \n'
       f'Está em maiúsculas?, "sim" if{a.isupper()} \n'
       f'Está em minúsculas? {a.islower()} \n'
-      f'Está capitalizado? {a.istitle()}')
+      f'Está capitalizado? {a.istitle()}') 
 
 a = input('Digite algo: ')
 
